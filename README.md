@@ -26,16 +26,16 @@
 package main
 
 import (
-	"github.com/GoblinBear/clog"
+    "github.com/GoblinBear/clog"
 )
 
 func main() {
-	clog.Info("There is some information.")
+    clog.Info("There is some information.")
 
-	num := 5
-	clog.Debug("Total = %d monkeys", num)
-	
-	clog.Error("Connect to server error.")
+    num := 5
+    clog.Debug("Total = %d monkeys", num)
+    
+    clog.Error("Connect to server error.")
 }
 ```
 ![](https://github.com/GoblinBear/clog/blob/master/console.png)
