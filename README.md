@@ -38,4 +38,4 @@ func main() {
 	clog.Error("Connect to server error.")
 }
 ```
-![](https://github.com/GoblinBear/clog/console.png)
+![](https://github.com/GoblinBear/clog/blob/master/console.png)
