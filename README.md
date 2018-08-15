@@ -7,7 +7,7 @@
     - Line
     - Function name 
 
-## Installation
+## <font color="#099BFF"><i class="fa fa-plug"></i></font> Installation
 
 - Simply run
     ```shell
